@@ -6,8 +6,7 @@ I'm a passionate **Web Developer & AI Enthusiast** currently pursuing my enginee
 ### 💻 Technologies & Tools
 - **Frontend:** Vue.js, React, Tailwind CSS
 - **Backend:** Spring Boot, Node.js, Express
-- **Database:** PostgreSQL, Firebase
-- **Security:** Keycloak, JWT
+- **Database:** PostgreSQL, MySQL, Firebase
 - **AI & Data:** Python, TensorFlow, OpenCV
 - **Version Control:** Git, GitHub
 
@@ -33,10 +32,6 @@ I'm a passionate **Web Developer & AI Enthusiast** currently pursuing my enginee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaymanbourich&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
-<a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mohamedaymanbourich&theme=rogue" width=50% height=200 alt="graph"/>
-</a>
 </div>
 
-### 📰 Daily Dev
-[![Daily.dev](https://app.daily.dev/)](https://app.daily.dev/)
+
