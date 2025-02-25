@@ -17,7 +17,7 @@ I'm a passionate **Web Developer & AI Enthusiast** currently pursuing my enginee
 🔹 **Real-time Chat App with Vue.js & Firebase**  
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/aymane_bourich](https://www.linkedin.com/in/aymane-bourich-996767173/)
+- **LinkedIn:** [linkedin.com/in/aymane_bourich](https://www.linkedin.com/in/mohamed-aymane-bourich-996767173/)
 - **GitHub:** [github.com/Mohamedaymanbourich](https://github.com/Mohamedaymanbourich)
 - **Email:** Mohamed.bourich@um6p.ma
 
