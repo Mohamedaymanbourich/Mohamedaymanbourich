@@ -24,15 +24,15 @@ I'm a passionate **Web Developer & AI Enthusiast** currently pursuing my enginee
 
 🚀 Always open to new opportunities and collaborations!
 
-### 📊 GitHub Stats & Activity
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedaymanbourich&theme=tokyonight&show_icons=true" height=150 />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaymanbourich&langs_count=5&theme=tokyonight" height=150 />
-</a>
-<br>
+### 📊 GitHub Stats & Activity$
+<div align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamedaymanbourich&theme=tokyonight&show_icons=true" height=150 />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaymanbourich&langs_count=5&theme=tokyonight" height=150 />
+  </a>
+  <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedaymanbourich&theme=tokyo-night)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedaymanbourich&theme=tokyo-night" />
 </div>
