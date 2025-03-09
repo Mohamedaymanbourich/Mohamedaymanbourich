@@ -33,4 +33,6 @@ I'm a passionate **Web Developer & AI Enthusiast** currently pursuing my enginee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaymanbourich&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedaymanbourich&theme=tokyo-night)
 </div>
